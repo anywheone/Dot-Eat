@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5125337C-2433-8066-2018-008035E32C84}") = "Dot-Eat_Unity-Chan", "Assembly-CSharp.csproj", "{2C5CA920-A6C4-BC57-7ECE-52C1909D2A28}"
+EndProject
+Project("{5125337C-2433-8066-2018-008035E32C84}") = "Dot-Eat_Unity-Chan", "Assembly-CSharp-Editor.csproj", "{20A19567-0EB6-81F3-134A-6C4DE6B4B508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5CA920-A6C4-BC57-7ECE-52C1909D2A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5CA920-A6C4-BC57-7ECE-52C1909D2A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5CA920-A6C4-BC57-7ECE-52C1909D2A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5CA920-A6C4-BC57-7ECE-52C1909D2A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A19567-0EB6-81F3-134A-6C4DE6B4B508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A19567-0EB6-81F3-134A-6C4DE6B4B508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A19567-0EB6-81F3-134A-6C4DE6B4B508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A19567-0EB6-81F3-134A-6C4DE6B4B508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
